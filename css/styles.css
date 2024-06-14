@@ -20,6 +20,22 @@ a{
 
 }
 
+nav{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 25px;
+}
+
+.google_fonts{
+ font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 25px;
+}
+
 .inicio_tamaño{
     font-size: 18px;
     list-style: none;
@@ -107,16 +123,7 @@ li{
 
 }
 
-header{
-    background-color: antiquewhite;
-    display: flex;
-    padding: 80px;
-    justify-content: space-between;
-    align-items: center;
 
-
-
-}
 
 
 nav li{
